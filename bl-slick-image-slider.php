@@ -4,7 +4,7 @@
  * Plugin URI: http://www.brilliantlogic.com.au
  * Description: Customised version of the Slick Slider and Image Carousel Pro 
  * Author: Brilliant Logic
- * Version: 2020.01
+ * Version: 2020.02
  * Author URI: ttp://www.brilliantlogic.com.au
  *
  * @package WordPress
@@ -12,6 +12,7 @@
  */
 //
 // v2020.01 - Initial release
+// v2020.02 - Added missing carousel templates and disable swipebox support.
 //
 //
 //
@@ -119,6 +120,7 @@ add_filter( 'plugin_row_meta', 'wpsisac_pro_plugin_row_meta', 10, 2 );
 require_once( 'wpsisac-slider-custom-post.php' );
 require_once( 'templates/wpsisac-carousel-template.php' );
 require_once( 'templates/wpsisac-template.php' );
+require_once( 'templates/wpsisac-gallery-carousel-template.php' );
 require_once( 'wpsisac_post_menu_function.php' );
 
 
