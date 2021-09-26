@@ -1,9 +1,10 @@
 === WP Slick Slider and Image Carousel Pro  ===
-Contributors: bl, wponlinesupport, anoopranawat 
+Contributors: wponlinesupport, anoopranawat 
+Tags: slick, image slider, slick slider, slick image slider, slider, image slider, header image slider, responsive image slider, responsive content slider, carousel, image carousel, carousel slider, content slider, coin slider, touch slider, text slider, responsive slider, responsive slideshow, Responsive Touch Slider, wp slider, wp image slider, wp header image slider, photo slider, responsive photo slider  
 Requires at least: 3.1
-Tested up to: 5
+Tested up to: 4.4.2
 
-A quick, easy way to add and display multiple WP Slick Slider and carousel using a shortcode.
+A quick, easy way to add and display mulipale WP Slick Slider and carousel using a shortcode.
  
 
 == Description ==
@@ -94,8 +95,6 @@ We have added 10 designs for slider and 6 design for carousel. You can find all 
 
 
 == Changelog ==
-
-v2020.01 - Initial release
 
 = 1.2.1 =
 * Fixed some css issues.
