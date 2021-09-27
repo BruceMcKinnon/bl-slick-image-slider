@@ -96,6 +96,12 @@ We have added 10 designs for slider and 6 design for carousel. You can find all 
 
 == Changelog ==
 
+v2021.01 - Blocks CPT from WP search results
+
+v2020.02 - Added missing carousel templates and disable swipebox support.
+
+v2020.01 - Initial Release
+
 = 1.2.1 =
 * Fixed some css issues.
 * Fixed responsive issue.
